@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# javascriptcalculator_1
-=======
 # JavaScript Calculator
 
 A clean, browser-based calculator built with plain HTML, CSS, and JavaScript.
@@ -50,4 +47,3 @@ This project validates expressions before evaluating them, instead of directly e
 ## License
 
 Use freely for learning and personal projects.
->>>>>>> 678dc61 (final calculator test)
